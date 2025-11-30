@@ -28,8 +28,7 @@ Micro-project with CSS animations and JS logic
 (Repo & Live Demo coming soon)
 
 ## 📫 Contact
-- **Email:** *(insert yours)*
-- **LinkedIn:** *(optional)*
+- **Email:** Euoxxy1991@icloud.com
 
 ---
 
