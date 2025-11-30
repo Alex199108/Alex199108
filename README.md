@@ -33,7 +33,7 @@ Micro-project with CSS animations and JS logic
 
 ---
 
-# 🇩🇪 Deutsch
+#  Deutsch
 
 ## 📌 Über mich
 Ich nehme aktuell an einer Umschulung zum  
