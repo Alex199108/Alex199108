@@ -46,6 +46,12 @@ Mein Ziel ist es, als **Junior Web Developer / Fullstack Developer** in die deut
 - **Tools:** Git, GitHub, VS Code
 - **Arbeitsweise:** Branching-Modell, saubere Commits, Pull Requests, GitHub Pages
 - **Systeme:** Windows 11, Ubuntu (VM)
+## 📊 GitHub Stats
+
+![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex199108&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex199108&layout=compact&theme=tokyonight)
+
+[![Alex's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Alex199108&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
