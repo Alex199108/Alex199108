@@ -46,7 +46,7 @@ Mein Ziel ist es, als **Junior Web Developer / Fullstack Developer** in die deut
 - **Tools:** Git, GitHub, VS Code
 - **Arbeitsweise:** Branching-Modell, saubere Commits, Pull Requests, GitHub Pages
 - **Systeme:** Windows 11, Ubuntu (VM)
-- ## 🧰 Tech Toolbox
+
 
 
 
